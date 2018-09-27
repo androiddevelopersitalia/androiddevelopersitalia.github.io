@@ -1,4 +1,4 @@
-Website by [Nicola Corti](https://ncorti.com/)
+Website by [@gammax](https://androiddevsitaly.slack.com/team/U87C3BZPX)
 &mdash;
 Made with Jekyll 
 &mdash;
