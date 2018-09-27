@@ -152,6 +152,7 @@ nav ul li a, nav ul li a:visited {
   text-decoration:none;
   font-weight:600;
   opacity:.75;
+  font-size: 0.8em;
 }
 
 nav ul li a:hover {
