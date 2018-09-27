@@ -37,7 +37,7 @@ colors:
   adired:    '#E93127'
   adigray:   '#7E8281'
   adiwhite:  '#ffffff'
-  adibackg:  '#2e2e2e'
+  adibackg:  '#4D4D4D'
 
 kramdown:
   auto_ids:  false
