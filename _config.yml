@@ -1,0 +1,43 @@
+---
+port: 4000
+host: 127.0.0.1
+safe: false
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "ADI | Android Developers Italia"
+keywords:    "android dev community slack italia italian ita mobile web development"
+description: "Sito ufficiale della community ADI - Android Developers Italia"
+source_link: 
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+
+## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: 
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  adigreen:  '#00A257'
+  adiblue:   '#477BC1'
+  adired:    '#E93127'
+  adigray:   '#7E8281'
+  adiwhite:  '#ffffff'
+  adibackg:  '#2e2e2e'
+
+kramdown:
+  auto_ids:  false
