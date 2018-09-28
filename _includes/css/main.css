@@ -144,6 +144,7 @@ nav ul li {
   min-width:110px;
   line-height:60px;
   margin:0;
+  float:none;
 }
 
 nav ul li a, nav ul li a:visited {

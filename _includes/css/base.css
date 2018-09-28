@@ -140,7 +140,7 @@ nav li {
 	ul, ol { margin-bottom: 20px; }
 	ul { list-style: none outside; }
 	ol { list-style: decimal; }
-	ul, ul.square { list-style: square outside; }
+	ul, ul.square, ul:not(.browser-default), ul:not(.browser-default)>li { list-style: square outside; }
 	ul ul, ul.circle { list-style: circle outside; }
 	ul ul ul, ul.disc { list-style: disc outside; }
 	ul ul li, ul ol li,
