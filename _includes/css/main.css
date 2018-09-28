@@ -116,6 +116,7 @@ hr {
 
 nav {
   font-size:15px;
+  height: auto;
   width:100%;
   position:fixed;
   z-index:100;
