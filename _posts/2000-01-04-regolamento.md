@@ -99,7 +99,7 @@ Oppure inviare una mail a [reclami@androiddevs.it](mailto:reclami@androiddevs.it
 Il regolamento **aggiornato** é disponibile su Github.
 
 <p align="center">
-    <a class="red waves-effect waves-light btn-large" href="/regolamento">
+    <a class="red waves-effect waves-light btn-large" href="/rules">
     <i class="material-icons left fab fa-github"></i>  Leggi il regolamento completo
     </a>
 </p>
