@@ -41,3 +41,6 @@ colors:
 
 kramdown:
   auto_ids:  false
+
+plugins:
+  - jekyll-redirect-from
