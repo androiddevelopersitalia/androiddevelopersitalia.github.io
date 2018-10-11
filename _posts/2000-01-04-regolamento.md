@@ -24,7 +24,7 @@ Android Developers Italia  rispetta tutti i suoi utenti e fa rispettare tra loro
 - Opinioni
 - Età
 - Religione
-- Mazionalità
+- Nazionalità
 - Colore della pelle
 
 ADI informa che nel rispetto dei diritti della persona, non tollera i seguenti punti e si impegna a farli rispettare usando gli strumenti messi a disposizione della piattaforma slack:
