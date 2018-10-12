@@ -69,7 +69,8 @@ Per facilitare la consultazione, il confronto e la crescita della community abbi
 - Se vuoi postare qualcosa che non è attinente con lo sviluppo Android scrivi nel canale #off-topic.
 - Se hai una domanda tecnica, cerca prima di trovare una soluzione facendo una ricerca. Se non hai trovato la soluzione, saremo felici di aiutarti (siamo qui per questo!).
 
-<div id="lavoro"/>
+<div id="lavoro"></div>
+
 ### Lavoro e annunci
 
 Per pubblicare una proposta lavorativa è obbligatorio usare il canale #lavoro rispettando alcune semplici indicazioni:
