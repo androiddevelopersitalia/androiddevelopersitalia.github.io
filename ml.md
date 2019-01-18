@@ -1,5 +1,5 @@
 ---
 layout: page
-redirect_to: "https://androiddevs.it/#lavoro"
-permalink: /work
+redirect_to: "https://androiddevs.it/#mailinglist"
+permalink: /ml
 ---
