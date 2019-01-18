@@ -1,6 +1,6 @@
 ---
 title: "Regolamento"
-bg: adiblue
+bg: adibackg
 color: white
 fa5-icon: fas fa-book
 ---

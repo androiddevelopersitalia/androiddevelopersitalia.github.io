@@ -21,6 +21,7 @@ touch_icon:  "img/apple-touch-icon.png"
 
 ## put YOUR key here to enable tracking! (blank to disable)
 google_analytics_key: 
+mailchimp-list: //redgadgets.us10.list-manage.com/subscribe/post?u=210acce5db69d3d4a04b0e25d&amp;id=08c6708f40
 
 
 ### template colors, used site-wide via css ###
