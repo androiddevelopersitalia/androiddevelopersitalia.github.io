@@ -22,19 +22,19 @@ fa5-icon: far fa-envelope
 <div id="mc_embed_signup">
 <form action="https://androiddevs.us19.list-manage.com/subscribe/post?u=e70b1f6acc3b76573d1c8247d&amp;id=787175785e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <label for="mce-EMAIL">Per iscriverti inserisci la tua email</label>
+    <label for="mce-EMAIL">Per iscriverti inserisci la tua email:</label>
     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
         <label><p>Opzioni di contatto</p></label>
-        <p>Seleziona,se vuoi, uno dei metodi con cui Android Developers Italia potrebbe contattarti:</p>
+        <p>Seleziona uno dei metodi con cui Android Developers Italia potrebbe contattarti:</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
         <label class="checkbox subfield" for="gdpr_32529"><input type="checkbox" id="gdpr_32529" name="gdpr[32529]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Email</span> </label><label class="checkbox subfield" for="gdpr_32533"><input type="checkbox" id="gdpr_32533" name="gdpr[32533]" value="Y" class="av-checkbox gdpr checkbox-red filled-in"><span>Direct Mail</span> </label><label class="checkbox subfield" for="gdpr_32537"><input type="checkbox" id="gdpr_32537" name="gdpr[32537]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Customized Online Advertising</span> </label>
         </fieldset>
         <p>Puoi annullare l'iscrizione in qualsiasi momento facendo clic sul collegamento nel piè di pagina delle nostre e-mail. Per informazioni su regolamento e gestione della privacy, visita il sito web</p>
     </div>
     <div class="content__gdprLegal">
-        <p>La nostra piattaforma di marketing è  Mailchimp.Iscrivendoti accetti che le informazioni verranno trasferite a MailChimp <a href="https://mailchimp.com/legal/" target="_blank">Scopri di più sulla gestione privacy di Mailchimp.</a></p>
+        <p>La nostra piattaforma di marketing è Mailchimp. Iscrivendoti accetti che le informazioni verranno trasferite a MailChimp <a href="https://mailchimp.com/legal/" target="_blank">Scopri di più sulla gestione privacy di Mailchimp.</a></p>
     </div>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e70b1f6acc3b76573d1c8247d_787175785e" tabindex="-1" value=""></div>
