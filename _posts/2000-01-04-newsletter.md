@@ -22,7 +22,7 @@ fa5-icon: far fa-envelope
 <div id="mc_embed_signup">
 <form action="https://androiddevs.us19.list-manage.com/subscribe/post?u=e70b1f6acc3b76573d1c8247d&amp;id=787175785e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <label for="mce-EMAIL">Subscribe to our mailing list</label>
+    <label for="mce-EMAIL">Per iscriverti inserisci la tua email</label>
     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
