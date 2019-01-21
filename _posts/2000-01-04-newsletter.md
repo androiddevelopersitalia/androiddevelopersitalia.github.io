@@ -26,8 +26,8 @@ fa5-icon: far fa-envelope
     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
-        <label><p>Marketing Permissions</p></label>
-        <p>Seleziona,se vuoi, uno dei metodi con cui  Android Developers Italia potrebbe contattarti:</p>
+        <label><p>Opzioni di contatto</p></label>
+        <p>Seleziona,se vuoi, uno dei metodi con cui Android Developers Italia potrebbe contattarti:</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
         <label class="checkbox subfield" for="gdpr_32529"><input type="checkbox" id="gdpr_32529" name="gdpr[32529]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Email</span> </label><label class="checkbox subfield" for="gdpr_32533"><input type="checkbox" id="gdpr_32533" name="gdpr[32533]" value="Y" class="av-checkbox gdpr checkbox-red filled-in"><span>Direct Mail</span> </label><label class="checkbox subfield" for="gdpr_32537"><input type="checkbox" id="gdpr_32537" name="gdpr[32537]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Customized Online Advertising</span> </label>
         </fieldset>
