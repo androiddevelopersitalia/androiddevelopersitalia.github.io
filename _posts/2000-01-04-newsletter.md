@@ -38,7 +38,7 @@ fa5-icon: far fa-envelope
     </div>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e70b1f6acc3b76573d1c8247d_787175785e" tabindex="-1" value=""></div>
-    <div class="red waves-effect waves-light btn"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="color: white;" /></div>
+    <div class="red waves-effect waves-light btn"><input type="submit" value="Iscriviti" name="subscribe" id="mc-embedded-subscribe" style="color: white;" /></div>
     </div>
 </div>
 </form>
