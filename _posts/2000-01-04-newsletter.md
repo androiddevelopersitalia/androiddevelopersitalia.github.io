@@ -31,7 +31,7 @@ fa5-icon: far fa-envelope
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
         <label class="checkbox subfield" for="gdpr_32529"><input type="checkbox" id="gdpr_32529" name="gdpr[32529]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Email</span> </label><label class="checkbox subfield" for="gdpr_32533"><input type="checkbox" id="gdpr_32533" name="gdpr[32533]" value="Y" class="av-checkbox gdpr checkbox-red filled-in"><span>Direct Mail</span> </label><label class="checkbox subfield" for="gdpr_32537"><input type="checkbox" id="gdpr_32537" name="gdpr[32537]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Customized Online Advertising</span> </label>
         </fieldset>
-        <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
+        <p>Puoi annullare l'iscrizione in qualsiasi momento facendo clic sul collegamento nel piè di pagina delle nostre e-mail. Per informazioni su regolamento e gestione della privacy, visita il sito web</p>
     </div>
     <div class="content__gdprLegal">
         <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
