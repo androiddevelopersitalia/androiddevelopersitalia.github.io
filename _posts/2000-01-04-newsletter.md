@@ -7,31 +7,35 @@ fa5-icon: far fa-envelope
 
 # Newsletter
 
+Iscritivi alla nostra newsletter per essere sempre aggiornato, ogni settimana, sulle ultime notizie dal mondo Android.
+
+<p align="center">
+    <a class="red waves-effect waves-light btn-large" href="https://us19.campaign-archive.com/home/?u=e70b1f6acc3b76573d1c8247d&id=787175785e">
+    <i class="material-icons left fas fa-archive"></i>  Consulta l'archivio della newsletter
+    </a>
+</p>
+
+Oppure iscriviti compilando questo form:
+
 <!-- Begin Mailchimp Signup Form -->
-<!-- <style type="text/css">
-    #mc_embed_signup{background:#477BC1; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<style type="text/css">
-    #mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}
-    #mergeRow-gdpr {margin-top: 20px;}
-    #mergeRow-gdpr fieldset label {font-weight: normal;}
-    #mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
-</style> -->
 <div id="mc_embed_signup">
 <form action="https://androiddevs.us19.list-manage.com/subscribe/post?u=e70b1f6acc3b76573d1c8247d&amp;id=787175785e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <label for="mce-EMAIL">Per iscriverti inserisci la tua email:</label>
-    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <input type="email" value="" name="EMAIL" class="email validate" id="mce-EMAIL" placeholder="" required>
+    <label for="mce-EMAIL">Email: </label>
+    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+    <label for="mce-FNAME">Nome: </label>
+    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+    <label for="mce-LNAME">Cognome: </label>
+
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
         <label><p>Opzioni di contatto</p></label>
         <p>Seleziona uno dei metodi con cui Android Developers Italia potrebbe contattarti:</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-        <label class="checkbox subfield" for="gdpr_32529"><input type="checkbox" id="gdpr_32529" name="gdpr[32529]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Email</span> </label><label class="checkbox subfield" for="gdpr_32533"><input type="checkbox" id="gdpr_32533" name="gdpr[32533]" value="Y" class="av-checkbox gdpr checkbox-red filled-in"><span>Direct Mail</span> </label><label class="checkbox subfield" for="gdpr_32537"><input type="checkbox" id="gdpr_32537" name="gdpr[32537]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Customized Online Advertising</span> </label>
+        <label class="checkbox subfield" for="gdpr_32529"><input type="checkbox" id="gdpr_32529" name="gdpr[32529]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Email</span> </label><label class="checkbox subfield" for="gdpr_32533"><input type="checkbox" id="gdpr_32533" name="gdpr[32533]" value="Y" class="av-checkbox gdpr checkbox-red filled-in"><span>Messaggi Diretti</span> </label><label class="checkbox subfield" for="gdpr_32537"><input type="checkbox" id="gdpr_32537" name="gdpr[32537]" value="Y" class="av-checkbox checkbox-red gdpr filled-in"><span>Pubblicità Customizzata</span> </label>
         </fieldset>
-        <p>Puoi annullare l'iscrizione in qualsiasi momento facendo clic sul collegamento nel piè di pagina delle nostre e-mail. Per informazioni su regolamento e gestione della privacy, visita il sito web</p>
+        <p>Puoi annullare l'iscrizione in qualsiasi momento facendo clic sul collegamento nel piè di pagina delle nostre e-mail.</p>
     </div>
     <div class="content__gdprLegal">
         <p>La nostra piattaforma di marketing è Mailchimp. Iscrivendoti accetti che le informazioni verranno trasferite a MailChimp <a href="https://mailchimp.com/legal/" target="_blank">Scopri di più sulla gestione privacy di Mailchimp.</a></p>
