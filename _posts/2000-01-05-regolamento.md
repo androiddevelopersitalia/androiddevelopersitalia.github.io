@@ -75,7 +75,7 @@ Per facilitare la consultazione, il confronto e la crescita della community abbi
 
 Per pubblicare una proposta lavorativa è obbligatorio usare il canale #lavoro rispettando alcune semplici indicazioni:
 
-- Nomea Azienda o Tipo di azienda
+- Nome Azienda o Tipo di azienda
 - Tipo di contratto
 - Inquadramento
 - RAL (quando è variabile descrivere il range sensato)
