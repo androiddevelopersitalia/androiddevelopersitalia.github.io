@@ -21,6 +21,15 @@
 	#Forms
 	#Misc */
 
+/* Live Streaming iframe (edit by nic)
+==================================================*/
+
+.live-frame {
+	max-width: 560px;
+	width: 100%;
+	height: 315px;
+}
+
 /* Custom headers (edit by nic)
 ==================================================*/
 
