@@ -83,6 +83,7 @@ Per pubblicare una proposta lavorativa è obbligatorio usare il canale #lavoro r
 - Remoto: specificare se il lavoro può essere svolto da remoto o una percentuale da remoto e l'altra dal datore di lavoro
 - Esperienza: specificare a parole o con titoli l'esperienza del candidato all'annuncio. Per es: junior, middle, senior o con tot anni di esperienza 
 - Tecnologia: specificare le tecnologie o il minimo di tecnologia che il candidato dovrà conoscere per partecipare alla selezione
+- Benefit: _(Opzionale)_ specificare quale tipo di benefit vengono offerti come parte del contratto di lavoro.
               
 Qualsiasi annuncio di lavoro che non rispetta queste specifiche potrà essere cancellato da uno degli admin. Le specifiche sono necessarie per migliorare l'efficacia dell'annuncio, per non creare confusione e ottimizzare le risposte dei candidati sia come qualità sia in termine di tempistica di risposta.
 
