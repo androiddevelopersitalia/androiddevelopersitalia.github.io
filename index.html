@@ -89,23 +89,4 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="site.js"></script>
 
-<!-- MailChimp Configuration Block -->
-<script>
-    var mailchimpConfig = {
-        baseUrl: 'mc.us19.list-manage.com',
-        uuid: 'e70b1f6acc3b76573d1c8247d',
-        lid: '787175785e'
-    };
-    var chimpPopupLoader = document.createElement("script");
-    chimpPopupLoader.src = '//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js';
-    chimpPopupLoader.setAttribute('data-dojo-config', 'usePlainJson: true, isDebug: false');
-    var chimpPopup = document.createElement("script");
-    chimpPopup.appendChild(document.createTextNode('require(["mojo/signup-forms/Loader"], function (L) { L.start({"baseUrl": "' +  mailchimpConfig.baseUrl + '", "uuid": "' + mailchimpConfig.uuid + '", "lid": "' + mailchimpConfig.lid + '"})});'));
-    jQuery(function ($) {
-        document.body.appendChild(chimpPopupLoader);
-        $(window).load(function () {
-            document.body.appendChild(chimpPopup);
-        });
-    });
-</script>
 </html>
