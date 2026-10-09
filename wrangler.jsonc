@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "androiddevelopersitalia-github-io",
+  "compatibility_date": "2026-10-06",
+  "observability": { "enabled": true },
+  "assets": { "directory": "_site" }
+}
